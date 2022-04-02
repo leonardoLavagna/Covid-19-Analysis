@@ -8,7 +8,7 @@ We are going to study some available data (see https://ourworldindata.org/covid-
 ### There are some visualizations available!
 Go to 
 - https://public.tableau.com/app/profile/leonardo.lavagna/viz/CovidProjectDashboardv1_1/Dashboard1?publish=yes
-- https://public.tableau.com/app/profile/leonardo.lavagna/viz/CoronavirusCOVID-19Cases_16489082392770/COVID-19GlobalView?publish=yes
+- https://public.tableau.com/app/profile/leonardo.lavagna/viz/CoronavirusCOVID-19Cases_16489085239110/COVID-19GlobalView
 
 to see the `Tableau Dashboards` associated to this project. Some of the tables used to make such visualizations are available in the files branch of this repository.
 
