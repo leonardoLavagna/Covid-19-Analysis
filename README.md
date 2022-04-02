@@ -5,7 +5,11 @@
 
 We are going to study some available data (see https://ourworldindata.org/covid-deaths and the files branch of this repository to download the tables we used) about Covid-19 deaths. The main idea of this project is to build an SQL database with the available data and carry out some (hopefully) interesting queries.
 
-### There is a visualization available!
-Go to https://public.tableau.com/app/profile/leonardo.lavagna/viz/CovidProjectDashboardv1_1/Dashboard1?publish=yes to see the `Tableau Dashboard` associated to this project. The tables used to make such visualizations are available in the files branch of this repository.
+### There are some visualizations available!
+Go to 
+- https://public.tableau.com/app/profile/leonardo.lavagna/viz/CovidProjectDashboardv1_1/Dashboard1?publish=yes
+- https://public.tableau.com/app/profile/leonardo.lavagna/viz/CoronavirusCOVID-19Cases_16489082392770/COVID-19GlobalView?publish=yes
+
+to see the `Tableau Dashboards` associated to this project. Some of the tables used to make such visualizations are available in the files branch of this repository.
 
 
