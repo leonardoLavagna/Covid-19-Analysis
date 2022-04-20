@@ -12,4 +12,7 @@ Go to
 
 to see the `Tableau Dashboards` associated to this project. Some of the tables used to make such visualizations are available in the files branch of this repository.
 
+### There is an interesting article related to this topic
+The group R2D3 has done a remarkable job in explaining Covid-19 simulations, and I feel like the following article is relevant and worth to read to make bettere sense out of the work carried out in this repository: http://www.r2d3.us/covid-19/.
+
 
